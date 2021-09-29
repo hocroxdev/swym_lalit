@@ -1,0 +1,6 @@
+framework module Pods_SWYM_SYWMUITests {
+  umbrella header "Pods-SWYM-SYWMUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
